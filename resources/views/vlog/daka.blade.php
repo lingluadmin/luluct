@@ -70,61 +70,68 @@
 				<article class="post">
 					<header class="entry-header">
 						<div class="entry-meta"> 
-							<span class="posted-on"><time class="entry-date published" date="2013-09-27">September 27, 2013</time></span>			
+							<span class="posted-on"><time class="entry-date published" date="2020-06-08">2020-06-08</time></span>			
 						</div>
-						<h1 class="entry-title"><a href="single.html" rel="bookmark">Hello world!</a></h1>
+						<h1 class="entry-title"><a href="single.html" rel="bookmark">打卡：日常</a></h1>
 					</header>
 					<div class="entry-content">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, molestias, architecto, adipisci, numquam dolor iusto eos reprehenderit placeat quam debitis quas magni eveniet. Saepe, nam, iste consectetur quae necessitatibus dolores provident veritatis possimus rerum facilis quia dicta itaque sapiente iusto natus quidem magni quibusdam. Explicabo nesciunt vel rem obcaecati reprehenderit eveniet culpa repudiandae. Distinctio, quia, provident illum necessitatibus repellendus rem voluptates exercitationem numquam inventore itaque atque sint nihil eveniet consequuntur eius! Laborum, at sit animi quae quidem ex tempora facilis.</p>
+						<ul>
+							<li>早起：05：40</li>
+							<li>打卡：跑步3公里</li>
+							<li>打卡：深蹲30个</li>
+							<li>打卡：俯卧撑30个</li>
+							<li>早餐：家常豆腐</li>
+							<li>午餐：麻辣豆腐</li>
+						</ul>
 					</div>
 				</article>
  				
  				<article class="post">
 					<header class="entry-header">
  						<div class="entry-meta"> 
- 							<span class="posted-on"><time class="entry-date published" date="2013-06-17">June 17, 2013</time></span>			
+ 							<span class="posted-on"><time class="entry-date published" date="2020-06-07">2020-06-07</time></span>			
  						</div> 
- 						<h1 class="entry-title"><a href="single.html" rel="bookmark">Vivamus Lacus Mauris</a></h1>
+ 						<h1 class="entry-title"><a href="single.html" rel="bookmark">打卡：社交</a></h1>
 					</header> 
 					<div class="entry-content"> 
 						<p><img alt="" src="/assets/images/mac.jpg"></p>
-						<p>Mauris eget quam orci. Quisque porta varius dui, quis posuere nibh mollis quis. Mauris commodo rhoncus porttitor. Maecenas et euismod elit. Nulla facilisi. Vivamus lacus libero, ultrices non ullamcorper ac, tempus sit amet enim. Suspendisse at semper ipsum. Suspendisse sagittis diam a massa viverra sollicitudin. Vivamus sagittis est eu diam fringilla nec tristique metus vestibulum. Donec magna purus, pellentesque vel lobortis ut, convallis id augue. Sed odio magna, pellentesque eget convallis ac, vehicula vel arcu. Sed eu scelerisque dui. Sed eu arcu at nibh hendrerit viverra. Vivamus lacus augue, sodales id cursus in, condimentum at risus. <a href="single.html" class="more-link">Continue reading&#8230;</a></p>
+						<p>朋友聚餐<a href="single.html" class="more-link">查看详情&#8230;</a></p>
 					</div> 
 				</article><!-- #post-## -->
 											
 				<article class="post">
 					<header class="entry-header">
  						<div class="entry-meta"> 
- 							<span class="posted-on"><time class="entry-date published" date="2013-06-17">June 17, 2013</time></span>			
+ 							<span class="posted-on"><time class="entry-date published" date="2020-06-06">2020-06-06</time></span>			
  						</div> 
- 						<h1 class="entry-title"><a href="single.html" rel="bookmark">Vivamus Lacus Mauris</a></h1>
+ 						<h1 class="entry-title"><a href="single.html" rel="bookmark">打卡：篮球</a></h1>
 					</header> 
 					<div class="entry-content"> 
-						<p>Mauris eget quam orci. Quisque porta varius dui, quis posuere nibh mollis quis. Mauris commodo rhoncus porttitor. Maecenas et euismod elit. Nulla facilisi. Vivamus lacus libero, ultrices non ullamcorper ac, tempus sit amet enim. Suspendisse at semper ipsum. Suspendisse sagittis diam a massa viverra sollicitudin. Vivamus sagittis est eu diam fringilla nec tristique metus vestibulum. Donec magna purus, pellentesque vel lobortis ut, convallis id augue. Sed odio magna, pellentesque eget convallis ac, vehicula vel arcu. Sed eu scelerisque dui. Sed eu arcu at nibh hendrerit viverra. Vivamus lacus augue, sodales id cursus in, condimentum at risus.</p>
+						<p>周六早上，篮球小伙伴一起打篮球</p>
 					</div> 
 				</article><!-- #post-## -->
 											
 				<article class="post">
 					<header class="entry-header"> 
 						<div class="entry-meta"> 
-							<span class="posted-on"><time class="entry-date published" date="2013-04-04">April 4, 2013</time></span>			
+							<span class="posted-on"><time class="entry-date published" date="2020-06-05">2020-06-05</time></span>			
 						</div>
-						<h1 class="entry-title"><a href="single.html" rel="bookmark">Maecenas Quisque Suspendisse Lorem</a></h1>
+						<h1 class="entry-title"><a href="single.html" rel="bookmark">日常：健康</a></h1>
 					</header>
 					<div class="entry-content">
-						<p>Mauris eget quam orci. Quisque porta varius dui, quis posuere nibh mollis quis. Mauris commodo rhoncus porttitor. Maecenas et euismod elit. Nulla facilisi. Vivamus lacus libero, ultrices non ullamcorper ac, tempus sit amet enim. Suspendisse at semper ipsum. Suspendisse sagittis diam a massa viverra sollicitudin. Vivamus sagittis est eu diam fringilla nec tristique metus vestibulum. Donec magna purus, pellentesque vel lobortis ut, convallis id augue. Sed odio magna, pellentesque eget convallis ac, vehicula vel arcu. Sed eu scelerisque dui. Sed eu arcu at nibh hendrerit viverra. Vivamus lacus augue, sodales id cursus in, condimentum at risus. <a href="single.html" class="more-link">Continue reading&#8230;</a></p>
+						<p>健康：看皮肤科，健康：洗牙<a href="single.html" class="more-link">查看详情&#8230;</a></p>
 					</div>
  				</article><!-- #post-## -->
 											
 				<article class="post">
 					<header class="entry-header">
  						<div class="entry-meta"> 
- 							<span class="posted-on"><time class="entry-date published" date="2013-03-20">March 20, 2013</time></span>			
+ 							<span class="posted-on"><time class="entry-date published" date="2020-06-04">2020-06-04</time></span>			
  						</div>
-						<h1 class="entry-title"><a href="single.html" rel="bookmark">Pellentesque Eget Convallis</a></h1>
+						<h1 class="entry-title"><a href="single.html" rel="bookmark">练车：科二最后一节课</a></h1>
 					</header>
 					<div class="entry-content">
-						<p>Mauris eget quam orci. Quisque porta varius dui, quis posuere nibh mollis quis. Mauris commodo rhoncus porttitor. Maecenas et euismod elit. Nulla facilisi. Vivamus lacus libero, ultrices non ullamcorper ac, tempus sit amet enim. Suspendisse at semper ipsum. Suspendisse sagittis diam a massa viverra sollicitudin. Vivamus sagittis est eu diam fringilla nec tristique metus vestibulum. Donec magna purus, pellentesque vel lobortis ut, convallis id augue. Sed odio magna, pellentesque eget convallis ac, vehicula vel arcu. Sed eu scelerisque dui. Sed eu arcu at nibh hendrerit viverra. Vivamus lacus augue, sodales id cursus in, condimentum at risus. <a href="single.html" class="more-link">Continue reading&#8230;</a></p>
+						<p>科二：倒库、定点停车与坡道起步、侧方、直角转弯、弯道行驶<a href="single.html" class="more-link">查看详情&#8230;</a></p>
 					</div>
 				</article><!-- #post-## --> 
 			</div> 
@@ -152,7 +159,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-3 widget">
-				<h3 class="widget-title">Contact</h3>
+				<h3 class="widget-title">联系方式</h3>
 				<div class="widget-body">
 					<p>+234 23 9873237<br>
 						<a href="mailto:#">some.email@somewhere.com</a><br>
