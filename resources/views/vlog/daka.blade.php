@@ -6,9 +6,9 @@
 	<meta name="description" content="">
 	<meta name="author"      content="Sergey Pozhilov (GetTemplate.com)">
 	
-	<title>Blog | Initio - Free, multipurpose html5 template by GetTemplate</title>
+	<title>vblog | 路路畅通</title>
 
-	<link rel="shortcut icon" href="assets/images/gt_favicon.png">
+	<link rel="shortcut icon" href="/assets/images/gt_favicon.png">
 	
 	<!-- Bootstrap -->
 	<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
@@ -17,18 +17,18 @@
 	<!-- Fonts -->
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Alice|Open+Sans:400,300,700">
 	<!-- Custom styles -->
-	<link rel="stylesheet" href="assets/css/styles.css">
+	<link rel="stylesheet" href="/assets/css/styles.css">
 
-	<!--[if lt IE 9]> <script src="assets/js/html5shiv.js"></script> <![endif]-->
+	<!--[if lt IE 9]> <script src="/assets/js/html5shiv.js"></script> <![endif]-->
 </head>
 <body>
 
 <header id="header">
 	<div id="head" class="parallax" parallax-speed="1">
 		<h1 id="logo" class="text-center">
-			<img class="img-circle" src="assets/images/guy.jpg" alt="">
-			<span class="title">Anthony Russel's Blog</span>
-			<span class="tagline">A creative man is motivated by the desire to achieve, not by the desire to beat others.</span>
+			<img class="img-circle" src="/assets/images/guy.jpg" alt="">
+			<span class="title">luluct-VBLOG</span>
+			<span class="tagline">路路畅通-VLOG-日常打卡</span>
 		</h1>
 	</div>
 
@@ -42,17 +42,18 @@
 			<div class="navbar-collapse collapse">
 				
 				<ul class="nav navbar-nav">
-					<li><a href="index.html">Home</a></li>
-					<li><a href="about.html">About</a></li>
+					<li><a href="index.html">首页</a></li>
+					<li><a href="about.html">关于我们</a></li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">More Pages <b class="caret"></b></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">衣食住行 <b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li><a href="sidebar-left.html">Left Sidebar</a></li>
-							<li><a href="sidebar-right.html">Right Sidebar</a></li>
-							<li><a href="single.html">Blog Post</a></li>
+							<li><a href="sidebar-left.html">衣</a></li>
+							<li><a href="sidebar-right.html">食</a></li>
+							<li><a href="single.html">住</a></li>
+							<li><a href="single.html">行</a></li>
 						</ul>
 					</li>
-					<li class="active"><a href="blog.html">Blog</a></li>
+					<li class="active"><a href="blog.html">博客</a></li>
 				</ul>
 			
 			</div><!--/.nav-collapse -->			
@@ -86,7 +87,7 @@
  						<h1 class="entry-title"><a href="single.html" rel="bookmark">Vivamus Lacus Mauris</a></h1>
 					</header> 
 					<div class="entry-content"> 
-						<p><img alt="" src="assets/images/mac.jpg"></p>
+						<p><img alt="" src="/assets/images/mac.jpg"></p>
 						<p>Mauris eget quam orci. Quisque porta varius dui, quis posuere nibh mollis quis. Mauris commodo rhoncus porttitor. Maecenas et euismod elit. Nulla facilisi. Vivamus lacus libero, ultrices non ullamcorper ac, tempus sit amet enim. Suspendisse at semper ipsum. Suspendisse sagittis diam a massa viverra sollicitudin. Vivamus sagittis est eu diam fringilla nec tristique metus vestibulum. Donec magna purus, pellentesque vel lobortis ut, convallis id augue. Sed odio magna, pellentesque eget convallis ac, vehicula vel arcu. Sed eu scelerisque dui. Sed eu arcu at nibh hendrerit viverra. Vivamus lacus augue, sodales id cursus in, condimentum at risus. <a href="single.html" class="more-link">Continue reading&#8230;</a></p>
 					</div> 
 				</article><!-- #post-## -->
@@ -223,7 +224,7 @@
 <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
-<script src="assets/js/template.js"></script>
+<script src="/assets/js/template.js"></script>
 </body>
 </html>
 
