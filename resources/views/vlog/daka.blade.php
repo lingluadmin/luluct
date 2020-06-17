@@ -5,11 +5,11 @@
 	<meta name="viewport"    content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="">
 	<meta name="author"      content="Sergey Pozhilov (GetTemplate.com)">
-	
+
 	<title>vblog | 路路畅通</title>
 
 	<link rel="shortcut icon" href="/assets/images/gt_favicon.png">
-	
+
 	<!-- Bootstrap -->
 	<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.no-icons.min.css" rel="stylesheet">
 	<!-- Icon font -->
@@ -26,21 +26,21 @@
 <header id="header">
 	<div id="head" class="parallax" parallax-speed="1">
 		<h1 id="logo" class="text-center">
-			<img class="img-circle" src="/assets/images/header.jpg" alt="">
-			<span class="title">luluct-VBLOG</span>
+            <img />
+            <span class="title">luluct-VBLOG</span>
 			<span class="tagline">路路畅通-VLOG-日常打卡</span>
 		</h1>
 	</div>
 
 	<nav class="navbar navbar-default navbar-sticky">
 		<div class="container-fluid">
-			
+
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
 			</div>
-			
+
 			<div class="navbar-collapse collapse">
-				
+
 				<ul class="nav navbar-nav">
 					<li><a href="index.html">首页</a></li>
 					<li><a href="about.html">关于我们</a></li>
@@ -55,9 +55,9 @@
 					</li>
 					<li class="active"><a href="blog.html">博客</a></li>
 				</ul>
-			
-			</div><!--/.nav-collapse -->			
-		</div>	
+
+			</div><!--/.nav-collapse -->
+		</div>
 	</nav>
 </header>
 
@@ -66,11 +66,11 @@
 	<div class="container">
 		<div class="row topspace">
 			<div class="col-sm-8 col-sm-offset-2">
-															
+
 				<article class="post">
 					<header class="entry-header">
-						<div class="entry-meta"> 
-							<span class="posted-on"><time class="entry-date published" date="2020-06-08">2020-06-08</time></span>			
+						<div class="entry-meta">
+							<span class="posted-on"><time class="entry-date published" date="2020-06-08">2020-06-08</time></span>
 						</div>
 						<h1 class="entry-title"><a href="single.html" rel="bookmark">打卡：日常</a></h1>
 					</header>
@@ -85,36 +85,36 @@
 						</ul>
 					</div>
 				</article>
- 				
+
  				<article class="post">
 					<header class="entry-header">
- 						<div class="entry-meta"> 
- 							<span class="posted-on"><time class="entry-date published" date="2020-06-07">2020-06-07</time></span>			
- 						</div> 
+ 						<div class="entry-meta">
+ 							<span class="posted-on"><time class="entry-date published" date="2020-06-07">2020-06-07</time></span>
+ 						</div>
  						<h1 class="entry-title"><a href="single.html" rel="bookmark">打卡：社交</a></h1>
-					</header> 
-					<div class="entry-content"> 
+					</header>
+					<div class="entry-content">
 						<p><img alt="" src="/assets/images/mac.jpg"></p>
 						<p>朋友聚餐<a href="single.html" class="more-link">查看详情&#8230;</a></p>
-					</div> 
+					</div>
 				</article><!-- #post-## -->
-											
+
 				<article class="post">
 					<header class="entry-header">
- 						<div class="entry-meta"> 
- 							<span class="posted-on"><time class="entry-date published" date="2020-06-06">2020-06-06</time></span>			
- 						</div> 
+ 						<div class="entry-meta">
+ 							<span class="posted-on"><time class="entry-date published" date="2020-06-06">2020-06-06</time></span>
+ 						</div>
  						<h1 class="entry-title"><a href="single.html" rel="bookmark">打卡：篮球</a></h1>
-					</header> 
-					<div class="entry-content"> 
+					</header>
+					<div class="entry-content">
 						<p>周六早上，篮球小伙伴一起打篮球</p>
-					</div> 
+					</div>
 				</article><!-- #post-## -->
-											
+
 				<article class="post">
-					<header class="entry-header"> 
-						<div class="entry-meta"> 
-							<span class="posted-on"><time class="entry-date published" date="2020-06-05">2020-06-05</time></span>			
+					<header class="entry-header">
+						<div class="entry-meta">
+							<span class="posted-on"><time class="entry-date published" date="2020-06-05">2020-06-05</time></span>
 						</div>
 						<h1 class="entry-title"><a href="single.html" rel="bookmark">日常：健康</a></h1>
 					</header>
@@ -122,19 +122,19 @@
 						<p>健康：看皮肤科，健康：洗牙<a href="single.html" class="more-link">查看详情&#8230;</a></p>
 					</div>
  				</article><!-- #post-## -->
-											
+
 				<article class="post">
 					<header class="entry-header">
- 						<div class="entry-meta"> 
- 							<span class="posted-on"><time class="entry-date published" date="2020-06-04">2020-06-04</time></span>			
+ 						<div class="entry-meta">
+ 							<span class="posted-on"><time class="entry-date published" date="2020-06-04">2020-06-04</time></span>
  						</div>
 						<h1 class="entry-title"><a href="single.html" rel="bookmark">练车：科二最后一节课</a></h1>
 					</header>
 					<div class="entry-content">
 						<p>科二：倒库、定点停车与坡道起步、侧方、直角转弯、弯道行驶<a href="single.html" class="more-link">查看详情&#8230;</a></p>
 					</div>
-				</article><!-- #post-## --> 
-			</div> 
+				</article><!-- #post-## -->
+			</div>
 		</div>
 
 		<center class="">
@@ -149,7 +149,7 @@
 				<li><a href="">&raquo;</a></li>
 			</ul>
 		</center>
-	
+
 
 	</div>	<!-- /container -->
 
@@ -165,7 +165,7 @@
 						<a href="mailto:#">some.email@somewhere.com</a><br>
 						<br>
 						234 Hidden Pond Road, Ashland City, TN 37015
-					</p>	
+					</p>
 				</div>
 			</div>
 
@@ -196,7 +196,7 @@
 						<a href="mailto:#">some.email@somewhere.com</a><br>
 						<br>
 						234 Hidden Pond Road, Ashland City, TN 37015
-					</p>	
+					</p>
 				</div>
 			</div>
 
@@ -207,7 +207,7 @@
 <footer id="underfooter">
 	<div class="container">
 		<div class="row">
-			
+
 			<div class="col-md-6 widget">
 				<div class="widget-body">
 					<p>234 Hidden Pond Road, Ashland City, TN 37015 </p>
@@ -217,7 +217,7 @@
 			<div class="col-md-6 widget">
 				<div class="widget-body">
 					<p class="text-right">
-						Copyright &copy; 2014, Your awesome name here<br> 
+						Copyright &copy; 2014, Your awesome name here<br>
 						Design: <a href="http://www.gettemplate.com" rel="designer">Initio by GetTemplate</a> </p>
 				</div>
 			</div>
