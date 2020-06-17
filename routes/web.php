@@ -22,6 +22,7 @@ Route::get('vlog',function(){
 
 # vlog
 Route::group(['prefix'=>'vlog', 'namespace'=>'Vlog'], function () {
+    Route::any('/index', ['as' => 'vlog.index', 'uses' => 'DakaController@daka']);
     Route::any('/daka',  ['as' => 'vlog.daka',  'uses' => 'DakaController@daka']);
     Route::any('/share', ['as' => 'vlog.share', 'uses' => 'ShareController@share']);
     Route::any('/stady', ['as' => 'vlog.stady', 'uses' => 'StadyController@stady']);

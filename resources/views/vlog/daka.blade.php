@@ -26,7 +26,7 @@
 <header id="header">
 	<div id="head" class="parallax" parallax-speed="1">
 		<h1 id="logo" class="text-center">
-			<img class="img-circle" src="/assets/images/guy.jpg" alt="">
+			<img class="img-circle" src="/assets/images/header.jpg" alt="">
 			<span class="title">luluct-VBLOG</span>
 			<span class="tagline">路路畅通-VLOG-日常打卡</span>
 		</h1>
