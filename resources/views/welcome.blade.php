@@ -42,10 +42,10 @@
                         <a href="http://www.luluct.cn" target="" class="nav-link dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false">衣食住行<span class="caret"></span>
                         </a>
                         <div class="dropdown-menu">
-                            <a class="dropdown-item" target="" href="http://cms.qisoweb.com/article/1.html">衣</a>
-                            <a class="dropdown-item" target="" href="http://cms.qisoweb.com/article/1.html">食</a>
-                            <a class="dropdown-item" target="" href="http://cms.qisoweb.com/article/1.html">住</a>
-                            <a class="dropdown-item" target="" href="http://cms.qisoweb.com/article/1.html">行</a>
+                            <a class="dropdown-item" target="" href="http://www.luluct.cn/vlog/daka">衣</a>
+                            <a class="dropdown-item" target="" href="http://www.luluct.cn/vlog/daka">食</a>
+                            <a class="dropdown-item" target="" href="http://www.luluct.cn/vlog/daka">住</a>
+                            <a class="dropdown-item" target="" href="http://www.luluct.cn/vlog/daka">行</a>
                                                        
                         </div>
                     </li> 
