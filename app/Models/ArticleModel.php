@@ -11,7 +11,7 @@ class ArticleModel extends BaseModel
      *
      * @var string
      */
-    protected $table    = 'l_article';
+    protected $table    = 'ct_article';
 
     public $timestamps  = false;
 
