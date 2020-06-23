@@ -50,7 +50,7 @@
                         </div>
                     </li> 
                     <li class="nav-item" data-model="article-VBLOG">
-                        <a class="nav-link" href="http://cms.qisoweb.com/article/1.html" target="">VBLOG</a>
+                        <a class="nav-link" href="http://www.luluct.cn/vlog/daka" target="">VBLOG</a>
                     </li>                                      
                 </ul>
             </div>
