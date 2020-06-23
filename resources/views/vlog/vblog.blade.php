@@ -93,12 +93,6 @@
         </div>
 		<div class="col-lg-3 sidecolumn">
 			<div class="card">
-				<div class="card-header">支持一下</div>
-				<div class="card-body text-center">
-					<img style="max-width: 100%" src="#">
-				</div>
-			</div>
-			<div class="card">
 				<div class="card-header">推荐阅读</div>
 				<div class="card-body">
 					<div class="list-side">
