@@ -1,6 +1,5 @@
 <?php
-
-namespace App\Services\ArticleService;
+namespace App\Http\Services\ArticleService;
 
 use App;
 use App\Models\ArticleModel;

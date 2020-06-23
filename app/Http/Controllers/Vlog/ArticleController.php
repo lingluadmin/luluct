@@ -4,13 +4,14 @@ namespace App\Http\Controllers\Vlog;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use App\Services\ArticleService;
+use App\Http\Services\ArticleService;
 
 class ArticleController extends Controller {
 
 	
     public function index(Request $request){
         $params = $request->all();
+        
         $articleService = new ArticleService();
 
         $detailData = $articleService->getArticleById($params);
