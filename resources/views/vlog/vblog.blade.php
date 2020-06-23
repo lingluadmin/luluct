@@ -35,7 +35,7 @@
 
             <div class="collapse navbar-collapse justify-content-end" id="bs-navbar-collapse">
                 <ul class="navbar-nav main-nav">
-                    <li class="nav-item " data-model="index">
+                    <li class="nav-item" data-model="index">
                         <a class="nav-link" href="http://www.luluct.cn" target="">首页</a>
                     </li>
                     <li class="nav-item dropdown" data-model="article-page">
@@ -121,7 +121,7 @@
 <script src="/assets/js/init.min.js"></script>
 <script type="text/javascript">
     jQuery(function ($) {
-        setNav('index');
+        //setNav('index');
         $('.list-group-item').click(function(e){
             var target=$(e.target);
             if(target.is('a'))return;
