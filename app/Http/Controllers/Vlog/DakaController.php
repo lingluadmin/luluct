@@ -8,9 +8,7 @@ class DakaController extends Controller {
 
 	
     public function daka(){
-
-	return view('vlog.daka');
-
+	    return view('vlog.vblog');
     }
 
 }

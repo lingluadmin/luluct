@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <title>路路畅通</title>
+    <title> VBLOG | 路路畅通</title>
 
     <meta name="keywords" content="关键词1,关键词2">
     <meta name="description" content="站点描述信息">
@@ -35,7 +35,7 @@
 
             <div class="collapse navbar-collapse justify-content-end" id="bs-navbar-collapse">
                 <ul class="navbar-nav main-nav">
-                    <li class="nav-item active" data-model="index">
+                    <li class="nav-item " data-model="index">
                         <a class="nav-link" href="http://www.luluct.cn" target="">首页</a>
                     </li>
                     <li class="nav-item dropdown" data-model="article-page">
@@ -49,7 +49,7 @@
                                                        
                         </div>
                     </li> 
-                    <li class="nav-item" data-model="article-VBLOG">
+                    <li class="nav-item active" data-model="article-VBLOG">
                         <a class="nav-link" href="http://cms.qisoweb.com/article/1.html" target="">VBLOG</a>
                     </li>                                      
                 </ul>
@@ -59,53 +59,21 @@
     </div>
 </header>
 
-<!-- 
-
-        <div id="carouselBannerControls" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-            <li data-target="#carouselBannerControls" class="" data-slide-to="0"></li>
-            <li data-target="#carouselBannerControls" data-slide-to="1" class="active"></li>
-            <li data-target="#carouselBannerControls" data-slide-to="2"></li>
-        </ol>
-        <div class="carousel-inner">
-            <div class="carousel-item" style="background-image:url(./ShirneCMS_files/0ba87fc02ce78a938ac9bd29de5a0b01.jpg)">
-                    <img src="./ShirneCMS_files/0ba87fc02ce78a938ac9bd29de5a0b01.jpg" alt="">
-                <p>3</p>
-            </div>
-            
-            <div class="carousel-item active" style="background-image:url(./ShirneCMS_files/ae7f83bfe1e4dfeafb23c0b55791ea2a.jpg)">
-                <img src="./ShirneCMS_files/ae7f83bfe1e4dfeafb23c0b55791ea2a.jpg" alt="">
-                <p>2</p>
-            </div>
-            
-            <div class="carousel-item" style="background-image:url(/uploads/adv/2019/10/5b56327b362c809118eab6e15015f687.jpg)">
-                <img src="./ShirneCMS_files/5b56327b362c809118eab6e15015f687.jpg" alt="">
-                <p>1</p>
-            </div>
-        </div>
-        
-        <a class="carousel-control-prev" href="http://cms.qisoweb.com/index.html#carouselBannerControls" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        
-        <a class="carousel-control-next" href="http://cms.qisoweb.com/index.html#carouselBannerControls" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-    </div> -->
 <div class="container index-body">
     <div class="row">
         <div class="col-lg-9">
             <ul class="list-group article-list">
                 <li class="list-group-item">
                     <div class="art-view">
-                        <h3><a href="http://cms.qisoweb.com/article/2.html">测试5</a></h3>
+                        <h3><a href="http://cms.qisoweb.com/article/2.html">打卡：2020年06月23日</a></h3>
                         <div class="desc">
-                        </div>
+							<p>运动：跑步 03公里</p>
+							<p>运动：深蹲 36个</p>
+							<p>运动：俯卧撑 32个</p>
+						</div>
                         
                         <div class="text-muted">
-                            <span><i class="ion-md-time"></i> 2019-07-20 02:44:47</span>
+                            <span><i class="ion-md-time"></i> 22020-06-23 </span>
                         </div>
                     </div>
                 </li>
@@ -133,8 +101,8 @@
                 <div class="card-header">推荐阅读</div>
                 <div class="card-body">
                     <div class="list-side">
-                        <a href="http://cms.qisoweb.com/article/2.html">测试5</a>
-                        <a href="http://cms.qisoweb.com/article/1.html">test</a>
+                        <a href="http://cms.qisoweb.com/article/2.html">打卡-2020年06月23日</a>
+                        <a href="http://cms.qisoweb.com/article/1.html">打卡-2020年06月22日</a>
                     </div>
                 </div>
             </div>
@@ -148,7 +116,7 @@
         <hr class="my-4">
         <div class="copyright-row text-center">
             <div class="mt-3">
-                ©2011-2018 ShirneCMS&nbsp;
+                ©2020-2025 luluct &nbsp;
                 <a href="#" target="_blank">vblog</a>
             </div>
         </div>
