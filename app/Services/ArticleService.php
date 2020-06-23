@@ -1,5 +1,5 @@
 <?php
-namespace App\Http\Services\ArticleService;
+namespace App\Http\Services;
 
 use App;
 use App\Models\ArticleModel;
@@ -7,6 +7,7 @@ use App\Models\ArticleModel;
 class ArticleService
 {
     public function getArticleById($params){
+    	
         $id = isset($params['id']) ? $params['id'] : 0;
 
         $articleModel = new ArticleModel();

@@ -11,7 +11,7 @@ class ArticleController extends Controller {
 	
     public function index(Request $request){
         $params = $request->all();
-        
+
         $articleService = new ArticleService();
 
         $detailData = $articleService->getArticleById($params);
