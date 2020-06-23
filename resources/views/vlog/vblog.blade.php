@@ -67,9 +67,9 @@
                     <div class="art-view">
                         <h3><a href="http://cms.qisoweb.com/article/2.html">打卡：2020年06月23日</a></h3>
                         <div class="desc">
-							<p>运动：跑步 03公里</p>
-							<p>运动：深蹲 36个</p>
-							<p>运动：俯卧撑 32个</p>
+							运动：跑步 03公里	<br/>
+							运动：深蹲 36个		<br/>
+							运动：俯卧撑 32个	<br/>
 						</div>
                         
                         <div class="text-muted">
@@ -77,37 +77,38 @@
                         </div>
                     </div>
                 </li>
-                    <li class="list-group-item">
-                        <div class="art-view">
-                        <h3><a href="http://cms.qisoweb.com/article/1.html">test</a></h3>
-                        <div class="desc">
-                            test监控维护工入门总结监控井下工作主要包括,安全监控系统,人员定位系统,无线系统,广播系统等。安全监控系统安全监控系统主要功能是负责监测各作业点的甲烷、一氧化碳、二氧化碳、氧气、风速、负压、温度、风机开停、馈电状态等数据，以保证安全生产图1：监...                        
-                        </div>
-                        <div class="text-muted">
-                            <span><i class="ion-md-time"></i> 2019-07-18 03:41:18</span>
-                        </div>
-                    </div>
-                </li>
+				<li class="list-group-item">
+					<div class="art-view">
+						<h3><a href="http://cms.qisoweb.com/article/1.html">test</a></h3>
+						<div class="desc">
+							test监控维护工入门总结监控井下工作主要包括,安全监控系统,人员定位系统,无线系统,广播系统等。安全监控系统安全监控系统主要功能是负责监测各作业点的甲烷、一氧化碳、二氧化碳、氧气、风速、负压、温度、风机开停、馈电状态等数据，以保证安全生产图1：监...                        
+						</div>
+
+						<div class="text-muted">
+							<span><i class="ion-md-time"></i> 2019-07-18 03:41:18</span>
+						</div>
+					</div>
+				</li>
             </ul>
         </div>
-        <div class="col-lg-3 sidecolumn">
-            <div class="card">
-                <div class="card-header">支持一下</div>
-                <div class="card-body text-center">
-                    <img style="max-width: 100%" src="#">
-                </div>
-            </div>
-            <div class="card">
-                <div class="card-header">推荐阅读</div>
-                <div class="card-body">
-                    <div class="list-side">
-                        <a href="http://cms.qisoweb.com/article/2.html">打卡-2020年06月23日</a>
-                        <a href="http://cms.qisoweb.com/article/1.html">打卡-2020年06月22日</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+		<div class="col-lg-3 sidecolumn">
+			<div class="card">
+				<div class="card-header">支持一下</div>
+				<div class="card-body text-center">
+					<img style="max-width: 100%" src="#">
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-header">推荐阅读</div>
+				<div class="card-body">
+					<div class="list-side">
+						<a href="http://cms.qisoweb.com/article/2.html">打卡-2020年06月23日</a>
+						<a href="http://cms.qisoweb.com/article/1.html">打卡-2020年06月22日</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
 

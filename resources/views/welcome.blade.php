@@ -126,7 +126,7 @@
             <div class="card">
                 <div class="card-header">支持一下</div>
                 <div class="card-body text-center">
-                    <img style="max-width: 100%" src="#">
+                    <img style="max-width: 100%" src="/assets/images/qrcode.jpeg">
                 </div>
             </div>
             <div class="card">
