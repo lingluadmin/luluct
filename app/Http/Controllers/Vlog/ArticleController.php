@@ -4,7 +4,7 @@ namespace App\Http\Controllers\Vlog;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use App\Http\Services\ArticleService;
+use App\Services\ArticleService;
 
 class ArticleController extends Controller {
 
